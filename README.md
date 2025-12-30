@@ -13,3 +13,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm">
 </p>
+
+### Main Project
+**frfy Music**  
+Service for listening to music
+
+[Open in web](https://bloxsik-web.github.io/firefy-music/global.html)  
