@@ -37,4 +37,4 @@ Discord: bloxsik.css
 
 #
 
-<img src="https://media.giphy.com/media/3o7aD2jQz9Z5gQqQ5y/giphy.gif" width="200">
+<img src="https://i.pinimg.com/originals/a2/f9/27/a2f927a8663ac446c1787796c34b27e3.gif" width="200">
