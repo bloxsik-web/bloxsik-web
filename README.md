@@ -21,3 +21,20 @@
 Service for listening to music
 
 [Open in web](https://bloxsik-web.github.io/firefy-music/index.html)  
+
+# 
+
+### About me
+Country: Russia
+Time zone: MSK +4
+Programming experience: 1 year
+
+# 
+
+### Contacts
+
+Discord: bloxsik.css
+
+#
+
+<img src="https://media.giphy.com/media/3o7aD2jQz9Z5gQqQ5y/giphy.gif" width="200">
