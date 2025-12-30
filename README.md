@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm">
 </p>
 
-### Main Project
+<h1 align="center">Main Project</h1>
 **frfy Music**  
 Service for listening to music
 
