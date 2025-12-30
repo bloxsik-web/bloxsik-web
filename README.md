@@ -18,4 +18,4 @@
 **frfy Music**  
 Service for listening to music
 
-[Open in web](https://bloxsik-web.github.io/firefy-music/global.html)  
+[Open in web](https://bloxsik-web.github.io/firefy-music/index.html)  
