@@ -1,4 +1,4 @@
-<h3 align="center">Bloxsik / Junior web developer</h3>
+<h1 align="center">Bloxsik / Junior web developer</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
@@ -14,6 +14,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm">
 </p>
 
-<p align="center">
- My projects
-</p>
+<h2 align="center">My projects</h2>
