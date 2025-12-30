@@ -37,4 +37,6 @@ Discord: bloxsik.css
 
 #
 
-<img src="https://i.pinimg.com/originals/a2/f9/27/a2f927a8663ac446c1787796c34b27e3.gif" width="200">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/219547717?v=4" width="200">
+</p>
