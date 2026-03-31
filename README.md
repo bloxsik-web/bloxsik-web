@@ -1,4 +1,4 @@
-<h1 align="center">Bloxsik / Junior web developer</h1>
+<h1 align="center">us1rok / Junior web developer</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
@@ -13,16 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="PyCharm">
 </p>
-
-# 
-
-### Main Project
-**frfy Music**  
-Service for listening to music
-
-[Open in web](https://bloxsik-web.github.io/firefy-music/index.html)  
-
-# 
 
 
 
