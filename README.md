@@ -24,16 +24,7 @@ Service for listening to music
 
 # 
 
-### About me
-Country: Russia
-Time zone: MSK +4
-Programming experience: 1 year
 
-# 
-
-### Contacts
-
-Discord: bloxsik.css
 
 #
 
