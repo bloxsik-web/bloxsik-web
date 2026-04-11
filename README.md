@@ -1,4 +1,4 @@
-<h1 align="center">us1rok / Fullstack developer</h1>
+<h1 align="center">Fullstack developer</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
